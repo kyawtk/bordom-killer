@@ -22,7 +22,7 @@ const Main = () => {
   };
   return (
     <div className="container mx-auto w-full lg:w-1/2 p-8 flex flex-col justify-center ">
-      <h1 className="text-center animate-pulse bg-red-600 mx-auto lg:w-full text-white rounded-md inline-block p-2 lg:w-2/4 w-full text-lg  font-bold">
+      <h1 className="text-center animate-pulse bg-red-600 mx-auto lg:w-full text-white rounded-md inline-block p-2  w-full text-lg  font-bold">
         {data.activity}
       </h1>
 
